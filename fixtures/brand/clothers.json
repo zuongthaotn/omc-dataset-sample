@@ -1,0 +1,663 @@
+{
+    "brands": [
+        {
+            "brand": "Nike",
+            "country": "USA",
+            "famous_products": [
+                "sportswear",
+                "hoodie",
+                "t-shirt",
+                "activewear"
+            ]
+        },
+        {
+            "brand": "Adidas",
+            "country": "Germany",
+            "famous_products": [
+                "tracksuit",
+                "sportswear",
+                "sneakers",
+                "activewear"
+            ]
+        },
+        {
+            "brand": "Zara",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "casual wear",
+                "denim",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "H&M",
+            "country": "Sweden",
+            "famous_products": [
+                "fast-fashion clothing",
+                "basic tees",
+                "casual wear",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Uniqlo",
+            "country": "Japan",
+            "famous_products": [
+                "basic tees",
+                "outerwear",
+                "minimalist clothing",
+                "innerwear"
+            ]
+        },
+        {
+            "brand": "Louis Vuitton",
+            "country": "France",
+            "famous_products": [
+                "luxury ready-to-wear",
+                "designer garments",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Gucci",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer wear",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Chanel",
+            "country": "France",
+            "famous_products": [
+                "haute couture",
+                "luxury ready-to-wear",
+                "fashion garments"
+            ]
+        },
+        {
+            "brand": "Hermès",
+            "country": "France",
+            "famous_products": [
+                "luxury clothing",
+                "silk garments",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Dior",
+            "country": "France",
+            "famous_products": [
+                "luxury clothing",
+                "haute couture",
+                "designer wear"
+            ]
+        },
+        {
+            "brand": "Prada",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer wear",
+                "fashion garments"
+            ]
+        },
+        {
+            "brand": "Burberry",
+            "country": "UK",
+            "famous_products": [
+                "trench coats",
+                "luxury outerwear",
+                "classic clothing"
+            ]
+        },
+        {
+            "brand": "Ralph Lauren",
+            "country": "USA",
+            "famous_products": [
+                "preppy clothing",
+                "casual wear",
+                "polo shirts",
+                "classic garments"
+            ]
+        },
+        {
+            "brand": "Tommy Hilfiger",
+            "country": "USA",
+            "famous_products": [
+                "preppy clothing",
+                "casual wear",
+                "jeans",
+                "t-shirts"
+            ]
+        },
+        {
+            "brand": "Lacoste",
+            "country": "France",
+            "famous_products": [
+                "polo shirts",
+                "casual wear",
+                "sporty-casual clothing"
+            ]
+        },
+        {
+            "brand": "Puma",
+            "country": "Germany",
+            "famous_products": [
+                "sportswear",
+                "casual wear",
+                "activewear"
+            ]
+        },
+        {
+            "brand": "The North Face",
+            "country": "USA",
+            "famous_products": [
+                "outdoor wear",
+                "jackets",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Patagonia",
+            "country": "USA",
+            "famous_products": [
+                "outdoor clothing",
+                "eco-casual wear",
+                "jackets"
+            ]
+        },
+        {
+            "brand": "Levi’s",
+            "country": "USA",
+            "famous_products": [
+                "denim jeans",
+                "casual wear",
+                "jackets",
+                "shirts"
+            ]
+        },
+        {
+            "brand": "Gap",
+            "country": "USA",
+            "famous_products": [
+                "casual wear",
+                "basic t-shirts",
+                "jeans",
+                "everyday clothing"
+            ]
+        },
+        {
+            "brand": "Calvin Klein",
+            "country": "USA",
+            "famous_products": [
+                "underwear",
+                "minimalist clothing",
+                "casual wear"
+            ]
+        },
+        {
+            "brand": "Lululemon",
+            "country": "Canada",
+            "famous_products": [
+                "athleisure wear",
+                "yoga wear",
+                "activewear"
+            ]
+        },
+        {
+            "brand": "Moncler",
+            "country": "Italy",
+            "famous_products": [
+                "luxury outerwear",
+                "down jackets",
+                "winter clothing"
+            ]
+        },
+        {
+            "brand": "Balenciaga",
+            "country": "France",
+            "famous_products": [
+                "designer clothing",
+                "streetwear fashion",
+                "high-fashion garments"
+            ]
+        },
+        {
+            "brand": "Versace",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer garments",
+                "fashion wear"
+            ]
+        },
+        {
+            "brand": "Dolce & Gabbana",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer garments",
+                "fashion wear"
+            ]
+        },
+        {
+            "brand": "Saint Laurent",
+            "country": "France",
+            "famous_products": [
+                "designer clothing",
+                "luxury wear",
+                "fashion garments"
+            ]
+        },
+        {
+            "brand": "Givenchy",
+            "country": "France",
+            "famous_products": [
+                "luxury clothing",
+                "designer garments",
+                "fashion wear"
+            ]
+        },
+        {
+            "brand": "Fendi",
+            "country": "Italy",
+            "famous_products": [
+                "luxury ready-to-wear",
+                "designer clothing",
+                "fashion garments"
+            ]
+        },
+        {
+            "brand": "Armani",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer suits",
+                "fashion garments"
+            ]
+        },
+        {
+            "brand": "Hugo Boss",
+            "country": "Germany",
+            "famous_products": [
+                "luxury clothing",
+                "men’s suits",
+                "business wear"
+            ]
+        },
+        {
+            "brand": "Valentino",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "haute couture",
+                "designer wear"
+            ]
+        },
+        {
+            "brand": "Michael Kors",
+            "country": "USA",
+            "famous_products": [
+                "designer clothing",
+                "luxury wear",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Moschino",
+            "country": "Italy",
+            "famous_products": [
+                "designer clothing",
+                "fashion wear",
+                "streetwear-luxury mix"
+            ]
+        },
+        {
+            "brand": "Celine",
+            "country": "France",
+            "famous_products": [
+                "luxury clothing",
+                "designer garments",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Off-White",
+            "country": "Italy/USA",
+            "famous_products": [
+                "streetwear",
+                "urban fashion",
+                "designer casual wear"
+            ]
+        },
+        {
+            "brand": "Balmain",
+            "country": "France",
+            "famous_products": [
+                "luxury clothing",
+                "designer fashion",
+                "haute couture"
+            ]
+        },
+        {
+            "brand": "Alexander McQueen",
+            "country": "UK",
+            "famous_products": [
+                "luxury clothing",
+                "designer wear",
+                "haute fashion"
+            ]
+        },
+        {
+            "brand": "Bottega Veneta",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "designer garments",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Stella McCartney",
+            "country": "UK",
+            "famous_products": [
+                "luxury clothing",
+                "designer wear",
+                "eco-fashion"
+            ]
+        },
+        {
+            "brand": "Miu Miu",
+            "country": "Italy",
+            "famous_products": [
+                "luxury clothing",
+                "fashion garments",
+                "designer wear"
+            ]
+        },
+        {
+            "brand": "Kenzo",
+            "country": "France",
+            "famous_products": [
+                "designer clothing",
+                "fashion wear",
+                "ready-to-wear"
+            ]
+        },
+        {
+            "brand": "Moschino",
+            "country": "Italy",
+            "famous_products": [
+                "fashion clothing",
+                "designer wear"
+            ]
+        },
+        {
+            "brand": "Max Mara",
+            "country": "Italy",
+            "famous_products": [
+                "luxury ready-to-wear",
+                "women’s fashion clothing"
+            ]
+        },
+        {
+            "brand": "G-Star RAW",
+            "country": "Netherlands",
+            "famous_products": [
+                "denim clothing",
+                "casual wear",
+                "jeans"
+            ]
+        },
+        {
+            "brand": "Scotch & Soda",
+            "country": "Netherlands",
+            "famous_products": [
+                "casual clothing",
+                "denim",
+                "street casual wear"
+            ]
+        },
+        {
+            "brand": "Diesel",
+            "country": "Italy",
+            "famous_products": [
+                "denim wear",
+                "casual fashion",
+                "streetwear"
+            ]
+        },
+        {
+            "brand": "Superdry",
+            "country": "UK",
+            "famous_products": [
+                "casual clothing",
+                "streetwear",
+                "hoodies",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Lee",
+            "country": "USA",
+            "famous_products": [
+                "denim wear",
+                "casual jeans",
+                "jackets"
+            ]
+        },
+        {
+            "brand": "Wrangler",
+            "country": "USA",
+            "famous_products": [
+                "denim wear",
+                "casual clothing",
+                "jeans"
+            ]
+        },
+        {
+            "brand": "Carhartt",
+            "country": "USA",
+            "famous_products": [
+                "workwear",
+                "casual clothes",
+                "streetwear"
+            ]
+        },
+        {
+            "brand": "Dickies",
+            "country": "USA",
+            "famous_products": [
+                "workwear clothing",
+                "casual wear",
+                "street-casual"
+            ]
+        },
+        {
+            "brand": "Abercrombie & Fitch",
+            "country": "USA",
+            "famous_products": [
+                "casual clothing",
+                "preppy wear",
+                "jeans",
+                "tees"
+            ]
+        },
+        {
+            "brand": "American Eagle",
+            "country": "USA",
+            "famous_products": [
+                "casual clothing",
+                "denim",
+                "everyday wear"
+            ]
+        },
+        {
+            "brand": "Bershka",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "young-style fashion",
+                "casual wear"
+            ]
+        },
+        {
+            "brand": "Pull & Bear",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "casual wear",
+                "streetwear"
+            ]
+        },
+        {
+            "brand": "Stradivarius",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "casual wear",
+                "women’s fashion"
+            ]
+        },
+        {
+            "brand": "Mango",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "casual wear",
+                "office wear",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Primark",
+            "country": "Ireland/UK",
+            "famous_products": [
+                "budget clothing",
+                "fast-fashion",
+                "basic wear"
+            ]
+        },
+        {
+            "brand": "NEXT",
+            "country": "UK",
+            "famous_products": [
+                "casual clothing",
+                "everyday wear",
+                "family clothing"
+            ]
+        },
+        {
+            "brand": "Marks & Spencer",
+            "country": "UK",
+            "famous_products": [
+                "classic clothing",
+                "casual wear",
+                "basics"
+            ]
+        },
+        {
+            "brand": "COS",
+            "country": "UK/Sweden",
+            "famous_products": [
+                "minimalist clothing",
+                "modern basics",
+                "casual wear"
+            ]
+        },
+        {
+            "brand": "Ted Baker",
+            "country": "UK",
+            "famous_products": [
+                "casual clothing",
+                "formal wear",
+                "smart-casual fashion"
+            ]
+        },
+        {
+            "brand": "Ben Sherman",
+            "country": "UK",
+            "famous_products": [
+                "casual wear",
+                "smart casual",
+                "shirts",
+                "jackets"
+            ]
+        },
+        {
+            "brand": "GANT",
+            "country": "USA/Sweden",
+            "famous_products": [
+                "preppy clothing",
+                "casual wear",
+                "shirts",
+                "outerwear"
+            ]
+        },
+        {
+            "brand": "Jack & Jones",
+            "country": "Denmark",
+            "famous_products": [
+                "casual clothing",
+                "jeans",
+                "streetwear"
+            ]
+        },
+        {
+            "brand": "Only",
+            "country": "Denmark",
+            "famous_products": [
+                "fast-fashion women wear",
+                "casual clothing",
+                "trendy wear"
+            ]
+        },
+        {
+            "brand": "Vila",
+            "country": "Denmark",
+            "famous_products": [
+                "women fast-fashion",
+                "casual wear",
+                "trendy clothing"
+            ]
+        },
+        {
+            "brand": "Bershka",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "streetwear",
+                "youth fashion"
+            ]
+        },
+        {
+            "brand": "Pull & Bear",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion",
+                "streetwear",
+                "casual wear"
+            ]
+        },
+        {
+            "brand": "Stradivarius",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "women casual wear",
+                "trendy pieces"
+            ]
+        },
+        {
+            "brand": "Bershka",
+            "country": "Spain",
+            "famous_products": [
+                "fast-fashion clothing",
+                "streetwear"
+            ]
+        }
+    ]
+}

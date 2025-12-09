@@ -1,0 +1,422 @@
+{
+    "brands": [
+        {
+            "brand": "Rolex",
+            "country": "Switzerland / UK origin",
+            "famous_products": [
+                "Submariner",
+                "Datejust",
+                "Day-Date",
+                "GMT-Master",
+                "Explorer"
+            ]
+        },
+        {
+            "brand": "Patek Philippe",
+            "country": "Switzerland",
+            "famous_products": [
+                "Nautilus",
+                "Aquanaut",
+                "Grand Complications",
+                "Calatrava"
+            ]
+        },
+        {
+            "brand": "Audemars Piguet",
+            "country": "Switzerland",
+            "famous_products": [
+                "Royal Oak",
+                "Royal Oak Offshore",
+                "Royal Oak Concept",
+                "Millenary"
+            ]
+        },
+        {
+            "brand": "Omega",
+            "country": "Switzerland",
+            "famous_products": [
+                "Speedmaster",
+                "Seamaster",
+                "Constellation",
+                "De Ville"
+            ]
+        },
+        {
+            "brand": "Tag Heuer",
+            "country": "Switzerland",
+            "famous_products": [
+                "Carrera",
+                "Monaco",
+                "Aquaracer",
+                "Formula 1"
+            ]
+        },
+        {
+            "brand": "Cartier",
+            "country": "France",
+            "famous_products": [
+                "Santos de Cartier",
+                "Tank",
+                "Ballon Bleu",
+                "Panthère"
+            ]
+        },
+        {
+            "brand": "Jaeger-LeCoultre",
+            "country": "Switzerland",
+            "famous_products": [
+                "Reverso",
+                "Master",
+                "Polaris",
+                "Atmos"
+            ]
+        },
+        {
+            "brand": "Breitling",
+            "country": "Switzerland",
+            "famous_products": [
+                "Navitimer",
+                "Superocean",
+                "Chronomat",
+                "Avenger"
+            ]
+        },
+        {
+            "brand": "IWC Schaffhausen",
+            "country": "Switzerland",
+            "famous_products": [
+                "Portugieser",
+                "Pilot's Watches",
+                "Portofino",
+                "Aquatimer"
+            ]
+        },
+        {
+            "brand": "Vacheron Constantin",
+            "country": "Switzerland",
+            "famous_products": [
+                "Patrimony",
+                "Overseas",
+                "Historiques",
+                "Traditionnelle"
+            ]
+        },
+        {
+            "brand": "Chopard",
+            "country": "Switzerland",
+            "famous_products": [
+                "Happy Diamonds",
+                "L.U.C",
+                "Mille Miglia",
+                "Classic Racing"
+            ]
+        },
+        {
+            "brand": "Hublot",
+            "country": "Switzerland",
+            "famous_products": [
+                "Big Bang",
+                "Classic Fusion",
+                "Spirit of Big Bang"
+            ]
+        },
+        {
+            "brand": "Breguet",
+            "country": "Switzerland / France origin",
+            "famous_products": [
+                "Classique",
+                "Marine",
+                "Tradition",
+                "Reine de Naples"
+            ]
+        },
+        {
+            "brand": "Blancpain",
+            "country": "Switzerland",
+            "famous_products": [
+                "Fifty Fathoms",
+                "Villeret",
+                "Léman"
+            ]
+        },
+        {
+            "brand": "Zenith",
+            "country": "Switzerland",
+            "famous_products": [
+                "El Primero",
+                "Defy",
+                "Pilot"
+            ]
+        },
+        {
+            "brand": "Tudor",
+            "country": "Switzerland / UK origin",
+            "famous_products": [
+                "Black Bay",
+                "Pelagos",
+                "Heritage",
+                "1926"
+            ]
+        },
+        {
+            "brand": "Longines",
+            "country": "Switzerland",
+            "famous_products": [
+                "Master Collection",
+                "HydroConquest",
+                "Conquest",
+                "Flagship"
+            ]
+        },
+        {
+            "brand": "Seiko",
+            "country": "Japan",
+            "famous_products": [
+                "Prospex",
+                "Presage",
+                "5 Sports",
+                "Grand Seiko (sub-brand)"
+            ]
+        },
+        {
+            "brand": "Casio",
+            "country": "Japan",
+            "famous_products": [
+                "G-Shock",
+                "Edifice",
+                "Sheen",
+                "Pro Trek"
+            ]
+        },
+        {
+            "brand": "Citizen",
+            "country": "Japan",
+            "famous_products": [
+                "Eco-Drive",
+                "Promaster",
+                "Automatic Watches",
+                "Dress Watches"
+            ]
+        },
+        {
+            "brand": "Orient",
+            "country": "Japan",
+            "famous_products": [
+                "Bambino",
+                "Kamasu",
+                "Mako",
+                "Ray"
+            ]
+        },
+        {
+            "brand": "Swatch",
+            "country": "Switzerland",
+            "famous_products": [
+                "Originals",
+                "Skin",
+                "Bioceramic",
+                "Irony"
+            ]
+        },
+        {
+            "brand": "Fossil",
+            "country": "USA",
+            "famous_products": [
+                "Classic Quartz Watches",
+                "Hybrid Smartwatches",
+                "Chronograph Watches",
+                "Minimalist Watches"
+            ]
+        },
+        {
+            "brand": "Michael Kors (watch line)",
+            "country": "USA",
+            "famous_products": [
+                "Runway",
+                "Bradshaw",
+                "Parker",
+                "Slim Runway"
+            ]
+        },
+        {
+            "brand": "Daniel Wellington",
+            "country": "Sweden",
+            "famous_products": [
+                "Classic",
+                "Petite",
+                "Dapper"
+            ]
+        },
+        {
+            "brand": "Tissot",
+            "country": "Switzerland",
+            "famous_products": [
+                "Le Locle",
+                "PRX",
+                "Seastar",
+                "T-Touch"
+            ]
+        },
+        {
+            "brand": "Hamilton",
+            "country": "Switzerland / USA origin",
+            "famous_products": [
+                "Khaki Field",
+                "Jazzmaster",
+                "Ventura",
+                "American Classic"
+            ]
+        },
+        {
+            "brand": "Rado",
+            "country": "Switzerland",
+            "famous_products": [
+                "True",
+                "Centrix",
+                "HyperChrome",
+                "DiaMaster"
+            ]
+        },
+        {
+            "brand": "Bulova",
+            "country": "USA",
+            "famous_products": [
+                "Precisionist",
+                "Marine Star",
+                "Classic Series"
+            ]
+        },
+        {
+            "brand": "Mido",
+            "country": "Switzerland",
+            "famous_products": [
+                "Commander",
+                "Ocean Star",
+                "Baroncelli"
+            ]
+        },
+        {
+            "brand": "Maurice Lacroix",
+            "country": "Switzerland",
+            "famous_products": [
+                "Aikon",
+                "Masterpiece",
+                "Pontos"
+            ]
+        },
+        {
+            "brand": "Oris",
+            "country": "Switzerland",
+            "famous_products": [
+                "Aquis",
+                "Divers Sixty-Five",
+                "ProPilot",
+                "Classic"
+            ]
+        },
+        {
+            "brand": "Montblanc (watches)",
+            "country": "Germany / Switzerland",
+            "famous_products": [
+                "1858",
+                "Heritage",
+                "TimeWalker"
+            ]
+        },
+        {
+            "brand": "Bulgari (watches)",
+            "country": "Italy / Switzerland",
+            "famous_products": [
+                "Octo",
+                "Serpenti",
+                "Diagono",
+                "Bulgari Roma"
+            ]
+        },
+        {
+            "brand": "Girard-Perregaux",
+            "country": "Switzerland",
+            "famous_products": [
+                "Laureato",
+                "1966",
+                "Tourbillon Watches"
+            ]
+        },
+        {
+            "brand": "Panerai",
+            "country": "Italy / Switzerland",
+            "famous_products": [
+                "Luminor",
+                "Radiomir",
+                "Submersible"
+            ]
+        },
+        {
+            "brand": "Bell & Ross",
+            "country": "France",
+            "famous_products": [
+                "BR 01",
+                "BR 03",
+                "Vintage",
+                "BR-X series"
+            ]
+        },
+        {
+            "brand": "Nomos Glashütte",
+            "country": "Germany",
+            "famous_products": [
+                "Tangente",
+                "Orion",
+                "Ludwig",
+                "Club"
+            ]
+        },
+        {
+            "brand": "Grand Seiko",
+            "country": "Japan",
+            "famous_products": [
+                "Elegance",
+                "Sport",
+                "Heritage",
+                "Spring Drive series"
+            ]
+        },
+        {
+            "brand": "Skagen",
+            "country": "Denmark / USA",
+            "famous_products": [
+                "Slimline",
+                "Ancher",
+                "Hagen"
+            ]
+        },
+        {
+            "brand": "Diesel (watches)",
+            "country": "Italy / USA",
+            "famous_products": [
+                "Mega Chief",
+                "On-Full Guard",
+                "Mr. Daddy",
+                "Dz series"
+            ]
+        },
+        {
+            "brand": "Armani Exchange (watches)",
+            "country": "Italy / USA",
+            "famous_products": [
+                "AX watches",
+                "Chronograph watches",
+                "Fashion watches"
+            ]
+        },
+        {
+            "brand": "Marc Jacobs (watches)",
+            "country": "USA",
+            "famous_products": [
+                "Henry",
+                "Baker",
+                "Blade"
+            ]
+        }
+    ]
+}

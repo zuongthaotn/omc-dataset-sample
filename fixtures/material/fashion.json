@@ -1,0 +1,418 @@
+{
+    "materials": [
+        {
+            "Material": "Cotton",
+            "Source": "Cotton plant",
+            "Characteristics": "Soft, breathable, good moisture absorption",
+            "Common Use": "T-shirts, shirts, dresses, jeans"
+        },
+        {
+            "Material": "Linen",
+            "Source": "Flax plant",
+            "Characteristics": "Cool, breathable, wrinkles easily",
+            "Common Use": "Summer dresses, shorts, shirts"
+        },
+        {
+            "Material": "Wool",
+            "Source": "Sheep",
+            "Characteristics": "Warm, elastic, soft",
+            "Common Use": "Sweaters, coats, blazers"
+        },
+        {
+            "Material": "Cashmere",
+            "Source": "Cashmere goats",
+            "Characteristics": "Very soft, lightweight, warm",
+            "Common Use": "Luxury sweaters, scarves, coats"
+        },
+        {
+            "Material": "Silk",
+            "Source": "Silkworms",
+            "Characteristics": "Smooth, glossy, luxurious",
+            "Common Use": "Dresses, blouses, luxury garments"
+        },
+        {
+            "Material": "Hemp",
+            "Source": "Hemp plant",
+            "Characteristics": "Durable, coarse, eco-friendly",
+            "Common Use": "Durable clothing, bags, shirts"
+        },
+        {
+            "Material": "Alpaca",
+            "Source": "Alpaca wool",
+            "Characteristics": "Soft, warm, lightweight",
+            "Common Use": "Sweaters, coats, scarves"
+        },
+        {
+            "Material": "Polyester",
+            "Source": "Synthetic (petrochemical)",
+            "Characteristics": "Durable, wrinkle-resistant, quick-drying",
+            "Common Use": "Dresses, jackets, trousers, sportswear"
+        },
+        {
+            "Material": "Nylon",
+            "Source": "Synthetic",
+            "Characteristics": "Durable, lightweight, elastic",
+            "Common Use": "Jackets, leggings, bags"
+        },
+        {
+            "Material": "Acrylic",
+            "Source": "Synthetic",
+            "Characteristics": "Soft, warm, lightweight",
+            "Common Use": "Sweaters, hats, scarves, winter wear"
+        },
+        {
+            "Material": "Spandex",
+            "Source": "Synthetic",
+            "Characteristics": "Highly stretchable",
+            "Common Use": "Leggings, swimwear, sportswear"
+        },
+        {
+            "Material": "Elastane",
+            "Source": "Synthetic",
+            "Characteristics": "High elasticity",
+            "Common Use": "Sportswear, fitted clothing"
+        },
+        {
+            "Material": "Lycra",
+            "Source": "Synthetic",
+            "Characteristics": "Stretchable, comfortable fit",
+            "Common Use": "Activewear, leggings, swimwear"
+        },
+        {
+            "Material": "Rayon",
+            "Source": "Regenerated cellulose",
+            "Characteristics": "Soft, breathable, drapes well",
+            "Common Use": "Dresses, blouses, linings"
+        },
+        {
+            "Material": "Viscose",
+            "Source": "Regenerated cellulose",
+            "Characteristics": "Soft, smooth, lightweight",
+            "Common Use": "Dresses, blouses, shirts"
+        },
+        {
+            "Material": "Microfiber",
+            "Source": "Polyester/Nylon",
+            "Characteristics": "Soft, lightweight, wrinkle-resistant",
+            "Common Use": "Jackets, outerwear, bags"
+        },
+        {
+            "Material": "Leather",
+            "Source": "Animal hides (cow, goat, pig)",
+            "Characteristics": "Durable, luxurious, wind-resistant",
+            "Common Use": "Jackets, bags, shoes, belts"
+        },
+        {
+            "Material": "Suede",
+            "Source": "Inner side of animal hides",
+            "Characteristics": "Soft, velvety, luxurious",
+            "Common Use": "Shoes, jackets, bags"
+        },
+        {
+            "Material": "Faux Leather",
+            "Source": "Synthetic",
+            "Characteristics": "Looks like real leather, vegan-friendly",
+            "Common Use": "Jackets, bags, shoes"
+        },
+        {
+            "Material": "Denim",
+            "Source": "Cotton",
+            "Characteristics": "Durable, thick, rugged",
+            "Common Use": "Jeans, jackets, skirts"
+        },
+        {
+            "Material": "Canvas",
+            "Source": "Cotton/Linen",
+            "Characteristics": "Sturdy, durable",
+            "Common Use": "Bags, shoes, jackets"
+        },
+        {
+            "Material": "Velvet",
+            "Source": "Silk/Cotton/Synthetic",
+            "Characteristics": "Soft, smooth, luxurious, dense pile",
+            "Common Use": "Evening dresses, jackets, blazers"
+        },
+        {
+            "Material": "Satin",
+            "Source": "Silk/Polyester",
+            "Characteristics": "Glossy, smooth, drapes elegantly",
+            "Common Use": "Dresses, evening wear, lingerie"
+        },
+        {
+            "Material": "Chiffon",
+            "Source": "Silk/Polyester/Nylon",
+            "Characteristics": "Sheer, lightweight, flowy",
+            "Common Use": "Dresses, blouses, layering"
+        },
+        {
+            "Material": "Organza",
+            "Source": "Silk/Polyester/Nylon",
+            "Characteristics": "Sheer, stiff, delicate",
+            "Common Use": "Gowns, wedding dresses, overlays"
+        },
+        {
+            "Material": "Tulle",
+            "Source": "Silk/Nylon/Polyester",
+            "Characteristics": "Lightweight, netted, see-through",
+            "Common Use": "Tutus, bridal wear, overlays"
+        },
+        {
+            "Material": "Jersey",
+            "Source": "Cotton/Polyester/Blends",
+            "Characteristics": "Stretchy, soft, comfortable",
+            "Common Use": "T-shirts, dresses, sportswear"
+        },
+        {
+            "Material": "Modal",
+            "Source": "Beech tree cellulose",
+            "Characteristics": "Soft, breathable, drapes well",
+            "Common Use": "Undergarments, t-shirts, loungewear"
+        },
+        {
+            "Material": "Bamboo Fiber",
+            "Source": "Bamboo plant",
+            "Characteristics": "Soft, eco-friendly, breathable",
+            "Common Use": "T-shirts, socks, underwear"
+        },
+        {
+            "Material": "Merino Wool",
+            "Source": "Merino sheep",
+            "Characteristics": "Soft, lightweight, warm, breathable",
+            "Common Use": "Sweaters, base layers, scarves"
+        },
+        {
+            "Material": "Alcantara",
+            "Source": "Synthetic microfiber",
+            "Characteristics": "Soft, suede-like, durable",
+            "Common Use": "Luxury jackets, shoes, accessories"
+        },
+        {
+            "Material": "Denim Stretch",
+            "Source": "Cotton + Spandex",
+            "Characteristics": "Durable, flexible, comfortable",
+            "Common Use": "Jeans, jackets, skirts"
+        },
+        {
+            "Material": "Leatherette",
+            "Source": "Synthetic",
+            "Characteristics": "Imitation leather, affordable",
+            "Common Use": "Bags, jackets, shoes"
+        },
+        {
+            "Material": "Polyamide",
+            "Source": "Synthetic",
+            "Characteristics": "Strong, lightweight, elastic",
+            "Common Use": "Swimwear, lingerie, sportswear"
+        },
+        {
+            "Material": "Tencel / Lyocell",
+            "Source": "Wood pulp (eucalyptus)",
+            "Characteristics": "Soft, eco-friendly, breathable",
+            "Common Use": "Shirts, dresses, loungewear"
+        },
+        {
+            "Material": "Seersucker",
+            "Source": "Cotton",
+            "Characteristics": "Puckered texture, lightweight, airy",
+            "Common Use": "Summer shirts, dresses, suits"
+        },
+        {
+            "Material": "Denim Raw / Selvedge",
+            "Source": "Cotton",
+            "Characteristics": "Durable, stiff, unwashed",
+            "Common Use": "Premium jeans, jackets"
+        },
+        {
+            "Material": "Ripstop",
+            "Source": "Nylon/Polyester",
+            "Characteristics": "Reinforced weave, tear-resistant",
+            "Common Use": "Outdoor jackets, pants, bags"
+        },
+        {
+            "Material": "Corduroy",
+            "Source": "Cotton/Blends",
+            "Characteristics": "Ribbed texture, warm, durable",
+            "Common Use": "Pants, jackets, skirts"
+        },
+        {
+            "Material": "Gabardine",
+            "Source": "Wool/Cotton/Blends",
+            "Characteristics": "Tightly woven, durable, smooth",
+            "Common Use": "Suits, trousers, coats"
+        },
+        {
+            "Material": "Poplin",
+            "Source": "Cotton/Blends",
+            "Characteristics": "Smooth, lightweight, durable",
+            "Common Use": "Shirts, dresses, summer wear"
+        },
+        {
+            "Material": "Chambray",
+            "Source": "Cotton",
+            "Characteristics": "Soft, light denim-like appearance",
+            "Common Use": "Shirts, dresses, casual wear"
+        },
+        {
+            "Material": "Herringbone",
+            "Source": "Wool/Cotton/Blends",
+            "Characteristics": "V-pattern weave, durable",
+            "Common Use": "Suits, coats, jackets"
+        },
+        {
+            "Material": "Houndstooth",
+            "Source": "Wool/Blends",
+            "Characteristics": "Check pattern, durable, textured",
+            "Common Use": "Coats, suits, skirts"
+        },
+        {
+            "Material": "Bouclé",
+            "Source": "Wool/Blends",
+            "Characteristics": "Looped yarn, textured, soft",
+            "Common Use": "Jackets, coats, sweaters"
+        },
+        {
+            "Material": "Fleece",
+            "Source": "Polyester",
+            "Characteristics": "Soft, insulating, lightweight",
+            "Common Use": "Sweaters, jackets, sportswear"
+        },
+        {
+            "Material": "Neoprene",
+            "Source": "Synthetic rubber",
+            "Characteristics": "Stretchy, insulating, water-resistant",
+            "Common Use": "Outerwear, wetsuits, sportswear"
+        },
+        {
+            "Material": "Gore-Tex",
+            "Source": "Synthetic membrane",
+            "Characteristics": "Waterproof, breathable, lightweight",
+            "Common Use": "Rain jackets, outdoor gear"
+        },
+        {
+            "Material": "Softshell",
+            "Source": "Synthetic blend",
+            "Characteristics": "Windproof, water-resistant, flexible",
+            "Common Use": "Outdoor jackets, pants, activewear"
+        },
+        {
+            "Material": "Down",
+            "Source": "Duck/Goose feathers",
+            "Characteristics": "Lightweight, insulating, compressible",
+            "Common Use": "Winter jackets, coats, vests"
+        },
+        {
+            "Material": "Polyfill / Polyester Filling",
+            "Source": "Synthetic",
+            "Characteristics": "Warm, lightweight, hypoallergenic",
+            "Common Use": "Jackets, coats, pillows"
+        },
+        {
+            "Material": "Taffeta",
+            "Source": "Silk/Polyester",
+            "Characteristics": "Crisp, smooth, shiny",
+            "Common Use": "Evening dresses, linings"
+        },
+        {
+            "Material": "Crepe",
+            "Source": "Silk/Wool/Polyester",
+            "Characteristics": "Textured, lightweight, drapes well",
+            "Common Use": "Dresses, skirts, blouses"
+        },
+        {
+            "Material": "Georgette",
+            "Source": "Silk/Polyester",
+            "Characteristics": "Sheer, lightweight, flowy",
+            "Common Use": "Dresses, blouses, scarves"
+        },
+        {
+            "Material": "Jacquard",
+            "Source": "Woven fabric",
+            "Characteristics": "Patterned, textured, durable",
+            "Common Use": "Coats, jackets, evening wear"
+        },
+        {
+            "Material": "Lurex",
+            "Source": "Metallic threads + synthetic",
+            "Characteristics": "Shiny, decorative, strong",
+            "Common Use": "Party dresses, evening wear, accessories"
+        },
+        {
+            "Material": "Organza Silk",
+            "Source": "Silk",
+            "Characteristics": "Crisp, sheer, delicate",
+            "Common Use": "Bridal gowns, evening wear"
+        },
+        {
+            "Material": "Mesh",
+            "Source": "Synthetic",
+            "Characteristics": "Sheer, breathable, lightweight",
+            "Common Use": "Sportswear, overlays, fashion tops"
+        },
+        {
+            "Material": "Foil Fabric",
+            "Source": "Synthetic with metallic finish",
+            "Characteristics": "Shiny, reflective, stiff",
+            "Common Use": "Party wear, stage costumes"
+        },
+        {
+            "Material": "Tweed",
+            "Source": "Wool",
+            "Characteristics": "Rough, durable, warm",
+            "Common Use": "Coats, jackets, suits"
+        },
+        {
+            "Material": "Plaid / Checked",
+            "Source": "Wool/Cotton/Blends",
+            "Characteristics": "Patterned, versatile",
+            "Common Use": "Shirts, skirts, jackets"
+        },
+        {
+            "Material": "Cord",
+            "Source": "Cotton/Wool",
+            "Characteristics": "Textured, warm, durable",
+            "Common Use": "Pants, jackets, skirts"
+        },
+        {
+            "Material": "Chambray Denim",
+            "Source": "Cotton",
+            "Characteristics": "Lightweight denim look, soft",
+            "Common Use": "Shirts, casual dresses, summer wear"
+        },
+        {
+            "Material": "Ripstop Nylon",
+            "Source": "Nylon",
+            "Characteristics": "Tear-resistant, lightweight",
+            "Common Use": "Outdoor jackets, pants, bags"
+        },
+        {
+            "Material": "Canvas Cotton",
+            "Source": "Cotton",
+            "Characteristics": "Durable, heavy-duty",
+            "Common Use": "Shoes, bags, casual jackets"
+        },
+        {
+            "Material": "Twill",
+            "Source": "Cotton/Wool/Blends",
+            "Characteristics": "Diagonal weave, durable",
+            "Common Use": "Pants, jackets, shirts"
+        },
+        {
+            "Material": "Brocade",
+            "Source": "Silk/Blends",
+            "Characteristics": "Rich, patterned, luxurious",
+            "Common Use": "Evening wear, jackets, dresses"
+        },
+        {
+            "Material": "Faux Fur",
+            "Source": "Synthetic",
+            "Characteristics": "Soft, fluffy, warm",
+            "Common Use": "Coats, jackets, accessories"
+        },
+        {
+            "Material": "Real Fur",
+            "Source": "Animal fur",
+            "Characteristics": "Warm, luxurious, soft",
+            "Common Use": "Luxury coats, jackets, hats"
+        }
+    ]
+}

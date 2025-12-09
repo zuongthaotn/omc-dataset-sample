@@ -1,0 +1,195 @@
+{
+    "brands": [
+        {
+            "brand": "New Era",
+            "country": "USA",
+            "famous_products": [
+                "59FIFTY fitted cap",
+                "9FIFTY snapback",
+                "bucket hats"
+            ]
+        },
+        {
+            "brand": "Stetson",
+            "country": "USA",
+            "famous_products": [
+                "Boss of the Plains cowboy hat",
+                "western felt hats",
+                "straw hats"
+            ]
+        },
+        {
+            "brand": "Kangol",
+            "country": "UK",
+            "famous_products": [
+                "berets",
+                "bucket hats",
+                "504 flat cap"
+            ]
+        },
+        {
+            "brand": "Borsalino",
+            "country": "Italy",
+            "famous_products": [
+                "luxury fedoras",
+                "Panama hats",
+                "straw hats"
+            ]
+        },
+        {
+            "brand": "Christys’ London",
+            "country": "UK",
+            "famous_products": [
+                "bowler hats",
+                "top hats",
+                "felt fedoras"
+            ]
+        },
+        {
+            "brand": "Bailey",
+            "country": "USA",
+            "famous_products": [
+                "felt trilbies",
+                "fedoras",
+                "straw panama hats"
+            ]
+        },
+        {
+            "brand": "Goorin Bros.",
+            "country": "USA",
+            "famous_products": [
+                "trucker hats",
+                "flat caps",
+                "fedoras",
+                "beanies"
+            ]
+        },
+        {
+            "brand": "Akubra",
+            "country": "Australia",
+            "famous_products": [
+                "rabbit-fur felt wide‑brim hats",
+                "bush hats",
+                "fedoras"
+            ]
+        },
+        {
+            "brand": "Brixton",
+            "country": "USA",
+            "famous_products": [
+                "snapbacks",
+                "bucket hats",
+                "newsboy caps",
+                "fedoras"
+            ]
+        },
+        {
+            "brand": "Filson",
+            "country": "USA",
+            "famous_products": [
+                "outdoor caps",
+                "trucker hats",
+                "canvas hats"
+            ]
+        },
+        {
+            "brand": "Lock & Co. Hatters",
+            "country": "UK",
+            "famous_products": [
+                "bowler hats",
+                "top hats",
+                "classic felt hats"
+            ]
+        },
+        {
+            "brand": "Maison Michel",
+            "country": "France",
+            "famous_products": [
+                "luxury couture hats",
+                "fashion hats",
+                "straw hats"
+            ]
+        },
+        {
+            "brand": "Fendi",
+            "country": "Italy",
+            "famous_products": [
+                "luxury caps",
+                "designer hats",
+                "fashion accessories"
+            ]
+        },
+        {
+            "brand": "Gucci",
+            "country": "Italy",
+            "famous_products": [
+                "designer caps",
+                "fashion hats",
+                "bucket hats"
+            ]
+        },
+        {
+            "brand": "Louis Vuitton",
+            "country": "France",
+            "famous_products": [
+                "luxury caps",
+                "designer hats",
+                "fashion accessories"
+            ]
+        },
+        {
+            "brand": "Prada",
+            "country": "Italy",
+            "famous_products": [
+                "designer hats",
+                "caps",
+                "fashion headwear"
+            ]
+        },
+        {
+            "brand": "Hermès",
+            "country": "France",
+            "famous_products": [
+                "luxury hats",
+                "designer caps",
+                "fashion accessories"
+            ]
+        },
+        {
+            "brand": "Versace",
+            "country": "Italy",
+            "famous_products": [
+                "designer hats",
+                "fashion caps",
+                "bucket hats"
+            ]
+        },
+        {
+            "brand": "Burberry",
+            "country": "UK",
+            "famous_products": [
+                "fashion caps",
+                "designer hats",
+                "bucket hats"
+            ]
+        },
+        {
+            "brand": "Dolce & Gabbana",
+            "country": "Italy",
+            "famous_products": [
+                "fashion caps",
+                "designer hats",
+                "bucket hats"
+            ]
+        },
+        {
+            "brand": "Ralph Lauren",
+            "country": "USA",
+            "famous_products": [
+                "baseball caps",
+                "classic caps",
+                "fashion hats"
+            ]
+        }
+    ]
+}

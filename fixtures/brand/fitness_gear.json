@@ -1,0 +1,395 @@
+{
+    "brands": [
+        {
+            "brand": "Life Fitness",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "strength machines",
+                "cardio equipment"
+            ]
+        },
+        {
+            "brand": "Precor",
+            "country": "USA",
+            "famous_products": [
+                "cardio machines",
+                "ellipticals",
+                "treadmills",
+                "gym equipment"
+            ]
+        },
+        {
+            "brand": "Cybex International",
+            "country": "USA",
+            "famous_products": [
+                "Arc Trainer",
+                "treadmills",
+                "stationary bikes",
+                "strength machines"
+            ]
+        },
+        {
+            "brand": "Technogym",
+            "country": "Italy",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "strength machines",
+                "wellness fitness gear"
+            ]
+        },
+        {
+            "brand": "NordicTrack",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "exercise bikes",
+                "rowers",
+                "home gym gear"
+            ]
+        },
+        {
+            "brand": "BowFlex",
+            "country": "USA",
+            "famous_products": [
+                "adjustable dumbbells",
+                "home gyms",
+                "cardio equipment"
+            ]
+        },
+        {
+            "brand": "Rogue Fitness",
+            "country": "USA",
+            "famous_products": [
+                "power racks",
+                "bars & plates",
+                "kettlebells",
+                "strength equipment"
+            ]
+        },
+        {
+            "brand": "Body‑Solid",
+            "country": "USA",
+            "famous_products": [
+                "weight benches",
+                "power racks",
+                "home fitness machines",
+                "strength gear"
+            ]
+        },
+        {
+            "brand": "Matrix Fitness",
+            "country": "USA",
+            "famous_products": [
+                "commercial cardio machines",
+                "strength machines",
+                "gym equipment"
+            ]
+        },
+        {
+            "brand": "Hammer Strength",
+            "country": "USA",
+            "famous_products": [
+                "plate‑loaded machines",
+                "strength equipment",
+                "gym machines"
+            ]
+        },
+        {
+            "brand": "True Fitness",
+            "country": "USA",
+            "famous_products": [
+                "cardio machines",
+                "home gym equipment",
+                "treadmills"
+            ]
+        },
+        {
+            "brand": "Gym80",
+            "country": "Germany",
+            "famous_products": [
+                "strength machines",
+                "commercial gym gear"
+            ]
+        },
+        {
+            "brand": "WaterRower",
+            "country": "Germany",
+            "famous_products": [
+                "rowing machines",
+                "cardio machines",
+                "eco‑friendly gym equipment"
+            ]
+        },
+        {
+            "brand": "BH Fitness",
+            "country": "Spain",
+            "famous_products": [
+                "treadmills",
+                "stationary bikes",
+                "home gym equipment"
+            ]
+        },
+        {
+            "brand": "Horizon Fitness",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "exercise bikes",
+                "home cardio equipment"
+            ]
+        },
+        {
+            "brand": "Vision Fitness",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "home cardio machines"
+            ]
+        },
+        {
+            "brand": "Impulse Fitness",
+            "country": "China",
+            "famous_products": [
+                "gym machines",
+                "strength gear",
+                "home gym equipment"
+            ]
+        },
+        {
+            "brand": "Tunturi",
+            "country": "Finland",
+            "famous_products": [
+                "home fitness machines",
+                "cardio equipment",
+                "exercise bikes"
+            ]
+        },
+        {
+            "brand": "PowerBlock",
+            "country": "USA",
+            "famous_products": [
+                "adjustable dumbbells",
+                "home strength gear"
+            ]
+        },
+        {
+            "brand": "Concept2",
+            "country": "USA",
+            "famous_products": [
+                "rowing machines",
+                "ergometers",
+                "indoor rowers"
+            ]
+        },
+        {
+            "brand": "Schwinn Fitness",
+            "country": "USA",
+            "famous_products": [
+                "exercise bikes",
+                "cardio machines",
+                "home gym gear"
+            ]
+        },
+        {
+            "brand": "StairMaster",
+            "country": "USA",
+            "famous_products": [
+                "stair climbers",
+                "cardio machines"
+            ]
+        },
+        {
+            "brand": "Nautilus",
+            "country": "USA",
+            "famous_products": [
+                "home gyms",
+                "strength machines",
+                "cardio equipment"
+            ]
+        },
+        {
+            "brand": "Star Trac",
+            "country": "USA",
+            "famous_products": [
+                "cardio machines",
+                "commercial gym equipment"
+            ]
+        },
+        {
+            "brand": "Trueform",
+            "country": "USA",
+            "famous_products": [
+                "manual treadmills",
+                "home cardio equipment"
+            ]
+        },
+        {
+            "brand": "Yes4All",
+            "country": "USA",
+            "famous_products": [
+                "weight plates",
+                "dumbbells",
+                "home strength gear"
+            ]
+        },
+        {
+            "brand": "REP Fitness",
+            "country": "USA",
+            "famous_products": [
+                "power racks",
+                "bars & plates",
+                "strength equipment"
+            ]
+        },
+        {
+            "brand": "XMark Fitness",
+            "country": "USA",
+            "famous_products": [
+                "home gym equipment",
+                "weight benches",
+                "strength gear"
+            ]
+        },
+        {
+            "brand": "Bodymax",
+            "country": "Germany",
+            "famous_products": [
+                "cardio machines",
+                "strength equipment",
+                "accessories"
+            ]
+        },
+        {
+            "brand": "Darwin Fitness",
+            "country": "Germany",
+            "famous_products": [
+                "gym equipment",
+                "treadmills",
+                "home fitness gear"
+            ]
+        },
+        {
+            "brand": "cardioStrong",
+            "country": "Germany",
+            "famous_products": [
+                "home cardio machines",
+                "treadmills",
+                "exercise bikes"
+            ]
+        },
+        {
+            "brand": "Taurus Fitness",
+            "country": "Germany",
+            "famous_products": [
+                "strength machines",
+                "home gym gear"
+            ]
+        },
+        {
+            "brand": "Impulse Health Tech",
+            "country": "China",
+            "famous_products": [
+                "commercial gym machines",
+                "strength and cardio gear"
+            ]
+        },
+        {
+            "brand": "Torque Fitness",
+            "country": "USA",
+            "famous_products": [
+                "strength machines",
+                "commercial gym equipment"
+            ]
+        },
+        {
+            "brand": "Bev­erFit",
+            "country": "USA",
+            "famous_products": [
+                "home fitness gear",
+                "strength & cardio equipment"
+            ]
+        },
+        {
+            "brand": "Truebody Fitness",
+            "country": "USA",
+            "famous_products": [
+                "home gym equipment",
+                "cardio machines"
+            ]
+        },
+        {
+            "brand": "Kettler",
+            "country": "Germany",
+            "famous_products": [
+                "exercise bikes",
+                "home fitness machines"
+            ]
+        },
+        {
+            "brand": "DKN Technology",
+            "country": "Germany",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "home cardio gear"
+            ]
+        },
+        {
+            "brand": "Sunny Health & Fitness",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "exercise bikes",
+                "home gym"
+            ]
+        },
+        {
+            "brand": "Marcy",
+            "country": "USA",
+            "famous_products": [
+                "home gyms",
+                "weight benches",
+                "strength equipment"
+            ]
+        },
+        {
+            "brand": "Xterra Fitness",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "home cardio equipment"
+            ]
+        },
+        {
+            "brand": "ProForm",
+            "country": "USA",
+            "famous_products": [
+                "treadmills",
+                "ellipticals",
+                "home cardio machines"
+            ]
+        },
+        {
+            "brand": "Horizon Fitness Europe",
+            "country": "Germany",
+            "famous_products": [
+                "home fitness machines",
+                "cardio gear"
+            ]
+        },
+        {
+            "brand": "Fittec",
+            "country": "USA",
+            "famous_products": [
+                "exercise bikes",
+                "cardio machines",
+                "home gym equipment"
+            ]
+        }
+    ]
+}

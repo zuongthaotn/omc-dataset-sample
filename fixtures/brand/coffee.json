@@ -1,0 +1,405 @@
+{
+    "brands": [
+        {
+            "brand": "Starbucks",
+            "country": "USA",
+            "famous_products": [
+                "latte",
+                "cappuccino",
+                "Frappuccino",
+                "whole‑bean coffee"
+            ]
+        },
+        {
+            "brand": "Nescafé",
+            "country": "Switzerland",
+            "famous_products": [
+                "instant coffee",
+                "3‑in‑1 coffee sachets",
+                "Nescafé Gold"
+            ]
+        },
+        {
+            "brand": "Nespresso",
+            "country": "Switzerland",
+            "famous_products": [
+                "coffee capsules",
+                "espresso pods",
+                "Vertuo system"
+            ]
+        },
+        {
+            "brand": "JDE Peet’s",
+            "country": "Netherlands / USA",
+            "famous_products": [
+                "Peet’s Coffee",
+                "Jacobs",
+                "Senseo",
+                "Moccona"
+            ]
+        },
+        {
+            "brand": "Lavazza",
+            "country": "Italy",
+            "famous_products": [
+                "Espresso",
+                "Qualità Rossa",
+                "Super Crema",
+                "coffee beans"
+            ]
+        },
+        {
+            "brand": "Illy",
+            "country": "Italy",
+            "famous_products": [
+                "100% Arabica espresso",
+                "ground coffee",
+                "whole‑bean coffee"
+            ]
+        },
+        {
+            "brand": "Dunkin’",
+            "country": "USA",
+            "famous_products": [
+                "ground coffee",
+                "donuts + coffee",
+                "iced coffee"
+            ]
+        },
+        {
+            "brand": "McCafé",
+            "country": "USA",
+            "famous_products": [
+                "espresso drinks",
+                "mocha",
+                "latte",
+                "takeaway coffee"
+            ]
+        },
+        {
+            "brand": "Tim Hortons",
+            "country": "Canada",
+            "famous_products": [
+                "iced coffee",
+                "donuts + coffee",
+                "Tim Hortons Original Blend"
+            ]
+        },
+        {
+            "brand": "Costa Coffee",
+            "country": "UK",
+            "famous_products": [
+                "espresso‑based drinks",
+                "filter coffee",
+                "coffee to‑go"
+            ]
+        },
+        {
+            "brand": "Peet’s Coffee",
+            "country": "USA",
+            "famous_products": [
+                "dark‑roast coffee",
+                "whole‑bean coffee",
+                "espresso drinks"
+            ]
+        },
+        {
+            "brand": "Jacobs",
+            "country": "Germany",
+            "famous_products": [
+                "ground coffee",
+                "instant coffee",
+                "coffee beans"
+            ]
+        },
+        {
+            "brand": "Folgers",
+            "country": "USA",
+            "famous_products": [
+                "ground coffee",
+                "classic drip coffee",
+                "instant coffee"
+            ]
+        },
+        {
+            "brand": "Maxwell House",
+            "country": "USA",
+            "famous_products": [
+                "ground coffee",
+                "instant coffee",
+                "drip coffee"
+            ]
+        },
+        {
+            "brand": "Caribou Coffee",
+            "country": "USA",
+            "famous_products": [
+                "espresso drinks",
+                "iced coffee",
+                "bagged coffee beans"
+            ]
+        },
+        {
+            "brand": "Blue Bottle Coffee",
+            "country": "USA",
+            "famous_products": [
+                "single‑origin beans",
+                "pour‑over coffee",
+                "cold brew"
+            ]
+        },
+        {
+            "brand": "Tchibo",
+            "country": "Germany",
+            "famous_products": [
+                "ground coffee",
+                "beans",
+                "instant coffee"
+            ]
+        },
+        {
+            "brand": "Melitta",
+            "country": "Germany",
+            "famous_products": [
+                "filter coffee",
+                "ground coffee",
+                "coffee filters"
+            ]
+        },
+        {
+            "brand": "Segafredo Zanetti",
+            "country": "Italy",
+            "famous_products": [
+                "espresso coffee",
+                "ground beans",
+                "whole beans"
+            ]
+        },
+        {
+            "brand": "Death Wish Coffee",
+            "country": "USA",
+            "famous_products": [
+                "extra‑strong coffee",
+                "ground coffee",
+                "dark‑roast beans"
+            ]
+        },
+        {
+            "brand": "Stumptown Coffee Roasters",
+            "country": "USA",
+            "famous_products": [
+                "specialty beans",
+                "cold brew",
+                "roasted whole beans"
+            ]
+        },
+        {
+            "brand": "Green Mountain Coffee Roasters",
+            "country": "USA",
+            "famous_products": [
+                "K‑cup pods",
+                "ground coffee",
+                "whole beans"
+            ]
+        },
+        {
+            "brand": "Café Bustelo",
+            "country": "USA / Cuba origin",
+            "famous_products": [
+                "espresso‑style ground coffee",
+                "strong‑flavor blends"
+            ]
+        },
+        {
+            "brand": "Dutch Bros. Coffee",
+            "country": "USA",
+            "famous_products": [
+                "drive‑thru coffee",
+                "specialty drinks",
+                "iced coffee"
+            ]
+        },
+        {
+            "brand": "Tully’s Coffee",
+            "country": "USA",
+            "famous_products": [
+                "ground coffee",
+                "K‑cup pods",
+                "drip coffee"
+            ]
+        },
+        {
+            "brand": "Coffee Beanery",
+            "country": "USA",
+            "famous_products": [
+                "ground coffee",
+                "whole beans",
+                "espresso blends"
+            ]
+        },
+        {
+            "brand": "The Coffee Bean & Tea Leaf",
+            "country": "USA",
+            "famous_products": [
+                "coffee drinks",
+                "whole‑bean coffee",
+                "tea & coffee blends"
+            ]
+        },
+        {
+            "brand": "OldTown Coffee",
+            "country": "Malaysia",
+            "famous_products": [
+                "white coffee",
+                "instant coffee",
+                "ground coffee"
+            ]
+        },
+        {
+            "brand": "Kenco",
+            "country": "UK",
+            "famous_products": [
+                "instant coffee",
+                "ground coffee",
+                "coffee blends"
+            ]
+        },
+        {
+            "brand": "Piazza D’Oro",
+            "country": "Netherlands",
+            "famous_products": [
+                "ground coffee",
+                "espresso beans"
+            ]
+        },
+        {
+            "brand": "Moccona",
+            "country": "Netherlands / Europe",
+            "famous_products": [
+                "instant coffee",
+                "ground coffee"
+            ]
+        },
+        {
+            "brand": "Toms Coffee",
+            "country": "USA",
+            "famous_products": [
+                "specialty coffee",
+                "ground beans",
+                "single origin coffee"
+            ]
+        },
+        {
+            "brand": "Volcafe",
+            "country": "Switzerland",
+            "famous_products": [
+                "green coffee beans",
+                "coffee sourcing & trading"
+            ]
+        },
+        {
+            "brand": "D.E. Master Blenders",
+            "country": "Netherlands",
+            "famous_products": [
+                "instant coffee",
+                "ground coffee",
+                "coffee blends"
+            ]
+        },
+        {
+            "brand": "Senseo",
+            "country": "Netherlands",
+            "famous_products": [
+                "coffee pods",
+                "ground coffee"
+            ]
+        },
+        {
+            "brand": "Old Town White Coffee",
+            "country": "Malaysia",
+            "famous_products": [
+                "white coffee",
+                "instant coffee",
+                "ground coffee"
+            ]
+        },
+        {
+            "brand": "Cafe du Monde",
+            "country": "USA",
+            "famous_products": [
+                "chicory coffee",
+                "ground coffee",
+                "traditional New Orleans coffee"
+            ]
+        },
+        {
+            "brand": "Bulletproof Coffee",
+            "country": "USA / Canada",
+            "famous_products": [
+                "butter coffee",
+                "ground coffee",
+                "coffee beans"
+            ]
+        },
+        {
+            "brand": "Lavazza Blue",
+            "country": "Italy",
+            "famous_products": [
+                "espresso capsules",
+                "ground coffee"
+            ]
+        },
+        {
+            "brand": "Cafe Rico",
+            "country": "Puerto Rico",
+            "famous_products": [
+                "ground coffee",
+                "espresso coffee"
+            ]
+        },
+        {
+            "brand": "Kopi Luwak",
+            "country": "Indonesia",
+            "famous_products": [
+                "kopi luwak beans",
+                "premium coffee beans"
+            ]
+        },
+        {
+            "brand": "Paulig",
+            "country": "Finland",
+            "famous_products": [
+                "ground coffee",
+                "coffee beans",
+                "instant coffee"
+            ]
+        },
+        {
+            "brand": "Jacobs Kronung",
+            "country": "Germany",
+            "famous_products": [
+                "ground coffee",
+                "espresso blends",
+                "whole beans"
+            ]
+        },
+        {
+            "brand": "Kraft Heinz",
+            "country": "USA",
+            "famous_products": [
+                "Maxwell House",
+                "ground coffee",
+                "instant coffee"
+            ]
+        },
+        {
+            "brand": "The J.M. Smucker Company",
+            "country": "USA",
+            "famous_products": [
+                "Folgers",
+                "Cafe Bustelo",
+                "ground & instant coffee"
+            ]
+        }
+    ]
+}

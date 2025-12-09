@@ -1,0 +1,341 @@
+{
+    "brands": [
+        {
+            "brand": "Louis Vuitton",
+            "country": "France",
+            "famous_products": [
+                "Neverfull",
+                "Speedy",
+                "Alma"
+            ]
+        },
+        {
+            "brand": "Chanel",
+            "country": "France",
+            "famous_products": [
+                "Classic Flap Bag",
+                "Boy Bag"
+            ]
+        },
+        {
+            "brand": "Gucci",
+            "country": "Italy",
+            "famous_products": [
+                "Dionysus",
+                "Marmont"
+            ]
+        },
+        {
+            "brand": "Hermès",
+            "country": "France",
+            "famous_products": [
+                "Birkin",
+                "Kelly"
+            ]
+        },
+        {
+            "brand": "Prada",
+            "country": "Italy",
+            "famous_products": [
+                "Galleria",
+                "Re-Edition Nylon Bag"
+            ]
+        },
+        {
+            "brand": "Dior",
+            "country": "France",
+            "famous_products": [
+                "Lady Dior",
+                "Book Tote"
+            ]
+        },
+        {
+            "brand": "Versace",
+            "country": "Italy",
+            "famous_products": [
+                "Medusa Bag",
+                "Virtus"
+            ]
+        },
+        {
+            "brand": "Balenciaga",
+            "country": "Italy",
+            "famous_products": [
+                "Classic City",
+                "Hourglass Bag"
+            ]
+        },
+        {
+            "brand": "Burberry",
+            "country": "UK",
+            "famous_products": [
+                "The Banner",
+                "TB Bag"
+            ]
+        },
+        {
+            "brand": "Fendi",
+            "country": "Italy",
+            "famous_products": [
+                "Baguette",
+                "Peekaboo"
+            ]
+        },
+        {
+            "brand": "Givenchy",
+            "country": "France",
+            "famous_products": [
+                "Antigona",
+                "Pandora"
+            ]
+        },
+        {
+            "brand": "Saint Laurent",
+            "country": "France",
+            "famous_products": [
+                "Kate",
+                "LouLou"
+            ]
+        },
+        {
+            "brand": "Valentino",
+            "country": "Italy",
+            "famous_products": [
+                "Rockstud",
+                "VLogo"
+            ]
+        },
+        {
+            "brand": "Michael Kors",
+            "country": "USA",
+            "famous_products": [
+                "Jet Set",
+                "Mercer"
+            ]
+        },
+        {
+            "brand": "Cartier",
+            "country": "France",
+            "famous_products": [
+                "Love Bag",
+                "Panthère"
+            ]
+        },
+        {
+            "brand": "Rolex",
+            "country": "Switzerland",
+            "famous_products": []
+        },
+        {
+            "brand": "Zara",
+            "country": "Spain",
+            "famous_products": []
+        },
+        {
+            "brand": "H&M",
+            "country": "Sweden",
+            "famous_products": []
+        },
+        {
+            "brand": "Nike",
+            "country": "USA",
+            "famous_products": [
+                "Air Max",
+                "Air Force 1"
+            ]
+        },
+        {
+            "brand": "Adidas",
+            "country": "Germany",
+            "famous_products": [
+                "Superstar",
+                "Ultraboost"
+            ]
+        },
+        {
+            "brand": "Uniqlo",
+            "country": "Japan",
+            "famous_products": []
+        },
+        {
+            "brand": "Levi’s",
+            "country": "USA",
+            "famous_products": [
+                "501 Jeans",
+                "Trucker Jacket"
+            ]
+        },
+        {
+            "brand": "Ralph Lauren",
+            "country": "USA",
+            "famous_products": [
+                "Polo Bag",
+                "RL Collection"
+            ]
+        },
+        {
+            "brand": "Tommy Hilfiger",
+            "country": "USA",
+            "famous_products": []
+        },
+        {
+            "brand": "Calvin Klein",
+            "country": "USA",
+            "famous_products": []
+        },
+        {
+            "brand": "The North Face",
+            "country": "USA",
+            "famous_products": [
+                "Base Camp",
+                "Borealis"
+            ]
+        },
+        {
+            "brand": "Puma",
+            "country": "Germany",
+            "famous_products": [
+                "Suede Classic",
+                "Clyde"
+            ]
+        },
+        {
+            "brand": "Moncler",
+            "country": "Italy",
+            "famous_products": [
+                "Maya Jacket",
+                "Genius Collection"
+            ]
+        },
+        {
+            "brand": "Off-White",
+            "country": "Italy",
+            "famous_products": [
+                "Diagonal Bag",
+                "Binder Clip Tote"
+            ]
+        },
+        {
+            "brand": "Hugo Boss",
+            "country": "Germany",
+            "famous_products": []
+        },
+        {
+            "brand": "Dolce & Gabbana",
+            "country": "Italy",
+            "famous_products": [
+                "Sicily Bag",
+                "Miss Sicily"
+            ]
+        },
+        {
+            "brand": "Bottega Veneta",
+            "country": "Italy",
+            "famous_products": [
+                "Cassette",
+                "Pouch"
+            ]
+        },
+        {
+            "brand": "Armani",
+            "country": "Italy",
+            "famous_products": [
+                "Armani Exchange Bags"
+            ]
+        },
+        {
+            "brand": "Moschino",
+            "country": "Italy",
+            "famous_products": [
+                "Love Bag",
+                "Toy Bag"
+            ]
+        },
+        {
+            "brand": "Céline",
+            "country": "France",
+            "famous_products": [
+                "Luggage",
+                "Triomphe"
+            ]
+        },
+        {
+            "brand": "Balmain",
+            "country": "France",
+            "famous_products": [
+                "B-Bag",
+                "Logo Bag"
+            ]
+        },
+        {
+            "brand": "Furla",
+            "country": "Italy",
+            "famous_products": [
+                "Metropolis",
+                "Candy Bag"
+            ]
+        },
+        {
+            "brand": "Tory Burch",
+            "country": "USA",
+            "famous_products": [
+                "Perry",
+                "Fleming"
+            ]
+        },
+        {
+            "brand": "Coach",
+            "country": "USA",
+            "famous_products": [
+                "Tabby",
+                "Rogue"
+            ]
+        },
+        {
+            "brand": "Kate Spade",
+            "country": "USA",
+            "famous_products": [
+                "Cameron Street",
+                "Margaux"
+            ]
+        },
+        {
+            "brand": "Michael Kors Collection",
+            "country": "USA",
+            "famous_products": [
+                "Whitney",
+                "Sloan"
+            ]
+        },
+        {
+            "brand": "Diesel",
+            "country": "Italy",
+            "famous_products": []
+        },
+        {
+            "brand": "Superdry",
+            "country": "UK",
+            "famous_products": []
+        },
+        {
+            "brand": "Gap",
+            "country": "USA",
+            "famous_products": []
+        },
+        {
+            "brand": "Forever 21",
+            "country": "USA",
+            "famous_products": []
+        },
+        {
+            "brand": "Urban Outfitters",
+            "country": "USA",
+            "famous_products": []
+        },
+        {
+            "brand": "American Eagle Outfitters",
+            "country": "USA",
+            "famous_products": []
+        }
+    ]
+}

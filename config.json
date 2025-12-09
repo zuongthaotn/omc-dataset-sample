@@ -1,0 +1,67 @@
+{
+    "catalog": {
+        "product": {
+            "simple": {
+                "enable": true,
+                "fixture": "simple_product.json",
+                "limit": 0
+            },
+            "configurable": {
+                "enable": true,
+                "rules": [
+                    {
+                        "name": "Bag",
+                        "rule": "{{brand}} {{gender}} {{size}} {{material}} {{style}} Bag",
+                        "rules": [
+                            {
+                                "brand": {
+                                    "fixture": "brand/bag.json",
+                                    "varriants": 0
+                                },
+                                "gender": {
+                                    "fixture": "gender.json",
+                                    "varriants": 0
+                                },
+                                "size": {
+                                    "fixture": "size/EU_size.json",
+                                    "varriants": 3
+                                },
+                                "material": {
+                                    "fixture": "material/fashion.json",
+                                    "varriants": 0
+                                },
+                                "style": {
+                                    "fixture": "style/fashsion.json",
+                                    "varriants": 5
+                                }
+                            }
+                        ],
+                        "limit": 100
+                    }
+                ]
+            },
+            "bundle": {
+                "enable": false
+            },
+            "grouped": {
+                "enable": false
+            },
+            "virtual": {
+                "enable": false
+            },
+            "downloadable": {
+                "enable": false
+            }
+        }
+    },
+    "customer": {
+        "simple": {
+            "enable": false
+        }
+    },
+    "order": {
+        "simple": {
+            "enable": false
+        }
+    }
+}

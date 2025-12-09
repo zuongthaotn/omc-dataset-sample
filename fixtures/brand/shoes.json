@@ -1,0 +1,389 @@
+{
+    "brands": [
+        {
+            "brand": "Nike",
+            "country": "USA",
+            "famous_products": [
+                "Air Force 1",
+                "Air Max",
+                "Air Jordan",
+                "Blazer",
+                "SB Dunk"
+            ]
+        },
+        {
+            "brand": "Adidas",
+            "country": "Germany",
+            "famous_products": [
+                "Superstar",
+                "Stan Smith",
+                "Ultraboost",
+                "Samba",
+                "Gazelle"
+            ]
+        },
+        {
+            "brand": "Puma",
+            "country": "Germany",
+            "famous_products": [
+                "Suede",
+                "RS‑X",
+                "Cali",
+                "Basket Classic"
+            ]
+        },
+        {
+            "brand": "New Balance",
+            "country": "USA",
+            "famous_products": [
+                "574",
+                "990",
+                "327",
+                "Fresh Foam runners"
+            ]
+        },
+        {
+            "brand": "Reebok",
+            "country": "UK",
+            "famous_products": [
+                "Classic Leather",
+                "Club C",
+                "Workout Plus"
+            ]
+        },
+        {
+            "brand": "Converse",
+            "country": "USA",
+            "famous_products": [
+                "Chuck Taylor All Star",
+                "Jack Purcell",
+                "Chuck 70"
+            ]
+        },
+        {
+            "brand": "Vans",
+            "country": "USA",
+            "famous_products": [
+                "Old Skool",
+                "Sk8‑Hi",
+                "Slip‑On"
+            ]
+        },
+        {
+            "brand": "Skechers",
+            "country": "USA",
+            "famous_products": [
+                "GOwalk",
+                "D’lites",
+                "memory foam sneakers"
+            ]
+        },
+        {
+            "brand": "ASICS",
+            "country": "Japan",
+            "famous_products": [
+                "Gel‑Kayano",
+                "Gel‑Nimbus",
+                "running shoes"
+            ]
+        },
+        {
+            "brand": "Onitsuka Tiger",
+            "country": "Japan",
+            "famous_products": [
+                "Mexico 66",
+                "Corsair",
+                "retro sneakers"
+            ]
+        },
+        {
+            "brand": "Timberland",
+            "country": "USA",
+            "famous_products": [
+                "6‑inch Boot",
+                "earthkeepers boots",
+                "casual boots"
+            ]
+        },
+        {
+            "brand": "Dr. Martens",
+            "country": "UK/Germany",
+            "famous_products": [
+                "1460 boots",
+                "1490 boots",
+                "Jadon boots"
+            ]
+        },
+        {
+            "brand": "Clarks",
+            "country": "UK",
+            "famous_products": [
+                "Desert Boot",
+                "Wallabee",
+                "casual leather shoes"
+            ]
+        },
+        {
+            "brand": "UGG",
+            "country": "Australia / USA",
+            "famous_products": [
+                "classic boots",
+                "slippers",
+                "sheepskin boots"
+            ]
+        },
+        {
+            "brand": "Salomon",
+            "country": "France",
+            "famous_products": [
+                "Speedcross",
+                "XT‑6",
+                "trail running shoes"
+            ]
+        },
+        {
+            "brand": "Merrell",
+            "country": "USA",
+            "famous_products": [
+                "hiking boots",
+                "trail shoes",
+                "outdoor shoes"
+            ]
+        },
+        {
+            "brand": "Crocs",
+            "country": "USA",
+            "famous_products": [
+                "Classic Clog",
+                "LiteRide",
+                "sandals"
+            ]
+        },
+        {
+            "brand": "Birkenstock",
+            "country": "Germany",
+            "famous_products": [
+                "Arizona sandals",
+                "Boston clogs",
+                "Madrid sandals"
+            ]
+        },
+        {
+            "brand": "Balenciaga",
+            "country": "France / Spain",
+            "famous_products": [
+                "Triple S",
+                "Speed Trainers",
+                "designer sneakers"
+            ]
+        },
+        {
+            "brand": "Gucci",
+            "country": "Italy",
+            "famous_products": [
+                "Ace sneakers",
+                "Rhyton sneakers",
+                "luxury sneakers"
+            ]
+        },
+        {
+            "brand": "Prada",
+            "country": "Italy",
+            "famous_products": [
+                "Prada Cloudbust",
+                "luxury leather sneakers"
+            ]
+        },
+        {
+            "brand": "Alexander McQueen",
+            "country": "UK",
+            "famous_products": [
+                "Oversized sneakers",
+                "Designer leather sneakers"
+            ]
+        },
+        {
+            "brand": "Salvatore Ferragamo",
+            "country": "Italy",
+            "famous_products": [
+                "luxury leather shoes",
+                "dress shoes",
+                "loafers"
+            ]
+        },
+        {
+            "brand": "Cole Haan",
+            "country": "USA",
+            "famous_products": [
+                "dress shoes",
+                "casual sneakers",
+                "loafers"
+            ]
+        },
+        {
+            "brand": "Steve Madden",
+            "country": "USA",
+            "famous_products": [
+                "casual sneakers",
+                "boots",
+                "fashion shoes"
+            ]
+        },
+        {
+            "brand": "Mizuno",
+            "country": "Japan",
+            "famous_products": [
+                "running shoes",
+                "athletic shoes",
+                "wave technology shoes"
+            ]
+        },
+        {
+            "brand": "Hoka One One",
+            "country": "USA / France",
+            "famous_products": [
+                "running shoes with maximal cushion",
+                "trail runners"
+            ]
+        },
+        {
+            "brand": "Salvatore Ferragamo",
+            "country": "Italy",
+            "famous_products": [
+                "luxury dress shoes",
+                "loafers",
+                "leather sneakers"
+            ]
+        },
+        {
+            "brand": "Veja",
+            "country": "France",
+            "famous_products": [
+                "sustainable sneakers",
+                "V‑10",
+                "esplar"
+            ]
+        },
+        {
+            "brand": "On Running",
+            "country": "Switzerland",
+            "famous_products": [
+                "Cloudswift",
+                "Cloudmonster",
+                "performance sneakers"
+            ]
+        },
+        {
+            "brand": "Fila",
+            "country": "Italy / South Korea",
+            "famous_products": [
+                "Disruptor",
+                "Retro sneakers",
+                "casual shoes"
+            ]
+        },
+        {
+            "brand": "Sperry",
+            "country": "USA",
+            "famous_products": [
+                "boat shoes",
+                "deck shoes",
+                "casual shoes"
+            ]
+        },
+        {
+            "brand": "Keds",
+            "country": "USA",
+            "famous_products": [
+                "canvas sneakers",
+                "casual shoes",
+                "classic sneakers"
+            ]
+        },
+        {
+            "brand": "New Rock",
+            "country": "Spain",
+            "famous_products": [
+                "gothic boots",
+                "leather boots",
+                "alternative fashion shoes"
+            ]
+        },
+        {
+            "brand": "Converse Pro Leather",
+            "country": "USA",
+            "famous_products": [
+                "basketball sneakers",
+                "retro sneakers"
+            ]
+        },
+        {
+            "brand": "Jordan",
+            "country": "USA",
+            "famous_products": [
+                "Air Jordan 1",
+                "Air Jordan 3",
+                "basketball sneakers"
+            ]
+        },
+        {
+            "brand": "Golden Goose",
+            "country": "Italy",
+            "famous_products": [
+                "distressed luxury sneakers",
+                "fashion sneakers"
+            ]
+        },
+        {
+            "brand": "Maison Margiela",
+            "country": "France",
+            "famous_products": [
+                "Tabi boots",
+                "luxury sneakers"
+            ]
+        },
+        {
+            "brand": "Salvatore Ferragamo",
+            "country": "Italy",
+            "famous_products": [
+                "dress shoes",
+                "loafers",
+                "luxury sneakers"
+            ]
+        },
+        {
+            "brand": "Vans Vault",
+            "country": "USA",
+            "famous_products": [
+                "premium Vans sneakers",
+                "skate shoes"
+            ]
+        },
+        {
+            "brand": "Dr. Scholl’s",
+            "country": "USA",
+            "famous_products": [
+                "comfort sandals",
+                "orthopedic shoes",
+                "casual shoes"
+            ]
+        },
+        {
+            "brand": "Birkenstock",
+            "country": "Germany",
+            "famous_products": [
+                "comfortable sandals",
+                "casual slides"
+            ]
+        },
+        {
+            "brand": "ECCO",
+            "country": "Denmark",
+            "famous_products": [
+                "comfort leather shoes",
+                "casual shoes",
+                "boots"
+            ]
+        }
+    ]
+}
