@@ -1,6 +1,7 @@
 {
     "catalog": {
         "product": {
+            "schema": "schema/full_schema.xml",
             "simple": {
                 "enable": true,
                 "fixture": "simple_product.json",

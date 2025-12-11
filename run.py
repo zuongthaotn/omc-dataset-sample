@@ -1,6 +1,5 @@
 import json
-from core.catalog.product.simple import SimpleProductGenerator
-from core.catalog.product.configurable import ConfigurableProductGenerator
+from core.autogen import AutoGen
 
 
 def main():
@@ -8,25 +7,11 @@ def main():
     with open('config.json', 'r', encoding='utf-8') as f:
         config = json.load(f)
     
-    all_products = []
     
-    # Generate simple products
-    simple_generator = SimpleProductGenerator(config)
-    simple_products = simple_generator.generate()
-    all_products.extend(simple_products)
-    
-    # Generate configurable products
-    configurable_generator = ConfigurableProductGenerator(config)
-    configurable_products = configurable_generator.generate()
-    all_products.extend(configurable_products)
-    
-    # Export all products to CSV
-    if all_products:
-        print(f"\nExporting {len(all_products)} total products...")
-        simple_generator.export_to_csv(all_products, 'outputs/products.csv')
-        print("Done!")
-    else:
-        print("No products generated")
+    auto_gen = AutoGen(config)
+    auto_gen.generate_products()
+    auto_gen.generate_customers()
+    auto_gen.generate_orders()
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 import json
-import random
 import csv
 import os
+from core.base_generator import BaseGenerator
 
 
 CSV_STRUCTURE = {
@@ -16,7 +16,8 @@ CSV_STRUCTURE = {
 }
 
 
-class BaseProductGenerator:
+
+class BaseProductGenerator(BaseGenerator):
     """Base class for product generators"""
     
     def __init__(self, config):
@@ -75,3 +76,18 @@ class BaseProductGenerator:
             writer.writerows(products)
         
         print(f"Exported {len(products)} products to: {output_file}")
+
+
+class CategoryGenerator(BaseGenerator):
+    def __init__(self, config):
+        self.config = config
+        self.fixture_cache = {}
+    
+    def generate(self):
+        pass
+    
+
+class CategoryProductGenerator(BaseGenerator):
+    def __init__(self, config):
+        self.config = config
+        self.fixture_cache = {}
