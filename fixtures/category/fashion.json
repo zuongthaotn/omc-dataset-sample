@@ -1,0 +1,149 @@
+{
+    "categories": {
+        "Apparel": {
+            "Tops": [
+                "Blouse",
+                "Sweater",
+                "Sweatshirt",
+                "T-Shirt",
+                "Shirt"
+            ],
+            "Bottoms": [
+                "Jeans",
+                "Shorts",
+                "Trousers",
+                "Sweatpants",
+                "Leggings",
+                "Pants"
+            ],
+            "Dresses & One-piece": [
+                "Dress",
+                "Gown",
+                "Jumpsuit",
+                "Romper",
+                "Overalls",
+                "Robe",
+                "Kimono"
+            ],
+            "Skirts": [
+                "Skirt"
+            ],
+            "Suits & Tailored": [
+                "Waistcoat",
+                "Coat",
+                "Coats",
+                "Jacket"
+            ],
+            "Seasonal Wear": [
+                "Wear",
+                "Warmer",
+                "Snow"
+            ]
+        },
+        "Footwear": {
+            "Shoes": [
+                "Shoes",
+                "Sneakers",
+                "Loafers",
+                "Espadrilles",
+                "Flats"
+            ],
+            "Boots": [
+                "Boots"
+            ],
+            "Heels": [
+                "Heels",
+                "Pumps"
+            ],
+            "Sandals & Summer": [
+                "Sandals",
+                "Toe",
+                "Footbed"
+            ]
+        },
+        "Accessories": {
+            "Headwear": [
+                "Beanie",
+                "Cap",
+                "Hat"
+            ],
+            "Neckwear": [
+                "Scarf",
+                "Shawl",
+                "Necklace",
+                "Warmer",
+                "Gaiter"
+            ],
+            "Hand Accessories": [
+                "Gloves",
+                "Liners",
+                "Mittens"
+            ],
+            "Legwear": [
+                "Socks",
+                "Stockings",
+                "Tights"
+            ],
+            "Fashion Accessories": [
+                "Brooch",
+                "Pin",
+                "Clip",
+                "Handkerchief",
+                "Tie",
+                "Pack"
+            ]
+        },
+        "Bags & Luggage": {
+            "Handbags": [
+                "Purse",
+                "Bag"
+            ],
+            "Backpacks": [
+                "Backpack"
+            ],
+            "Wallet & Card": [
+                "Wallet",
+                "Cardholder",
+                "Case"
+            ],
+            "Pouches & Small Items": [
+                "Pouch",
+                "Box",
+                "Cover",
+                "Sleeve"
+            ]
+        },
+        "Jewelry": {
+            "Neck": [
+                "Necklace"
+            ],
+            "Hand & Wrist": [
+                "Bracelet",
+                "Ring",
+                "Wristwatch"
+            ],
+            "Earrings": [
+                "Earrings"
+            ],
+            "Brooches & Pins": [
+                "Brooch",
+                "Pin"
+            ]
+        },
+        "Eyewear": {
+            "Sunglasses": [
+                "Sunglasses"
+            ]
+        },
+        "Outerwear": {
+            "Coats & Jackets": [
+                "Coat",
+                "Coats",
+                "Jacket"
+            ],
+            "Weather Protection": [
+                "Umbrella"
+            ]
+        }
+    }
+}

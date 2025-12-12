@@ -1,7 +1,13 @@
 {
+    "schema": "schema/full_schema.xml",
     "catalog": {
+        "category": {
+            "enable": true,
+            "fixture": "category/fashion.json",
+            "created_at": "2024-03-01 14:33:00",
+            "limit": 0
+        },
         "product": {
-            "schema": "schema/full_schema.xml",
             "simple": {
                 "enable": true,
                 "fixture": "simple_product.json",
@@ -53,11 +59,30 @@
             "downloadable": {
                 "enable": false
             }
+        },
+        "category_product": {
+            "enable": true
+        },
+        "stock_inventory": {
+            "enable": true,
+            "warehouses": 3
         }
     },
     "customer": {
-        "simple": {
-            "enable": false
+        "entity": {
+            "enable": true,
+            "fixture": {
+                "first_name": "customer/US_first_name.json",
+                "last_name": "customer/US_last_name.json",
+                "gender": "customer/US_last_name.json",
+                "email": "customer/email_domain.json"
+            },
+            "limit": 300
+        },
+        "address": {
+            "enable": true,
+            "fixture": "US_address.json",
+            "max_address_per_customer": 5
         }
     },
     "order": {

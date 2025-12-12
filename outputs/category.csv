@@ -1,0 +1,113 @@
+id,name,parent_id,slug,status,created_at
+1,Apparel,0,apparel,Enabled,2024-01-01 00:00:00
+2,Tops,1,tops,Enabled,2024-01-01 00:00:00
+3,Blouse,2,blouse,Enabled,2024-01-01 00:00:00
+4,Sweater,2,sweater,Enabled,2024-01-01 00:00:00
+5,Sweatshirt,2,sweatshirt,Enabled,2024-01-01 00:00:00
+6,T-Shirt,2,t-shirt,Enabled,2024-01-01 00:00:00
+7,Shirt,2,shirt,Enabled,2024-01-01 00:00:00
+8,Bottoms,1,bottoms,Enabled,2024-01-01 00:00:00
+9,Jeans,8,jeans,Enabled,2024-01-01 00:00:00
+10,Shorts,8,shorts,Enabled,2024-01-01 00:00:00
+11,Trousers,8,trousers,Enabled,2024-01-01 00:00:00
+12,Sweatpants,8,sweatpants,Enabled,2024-01-01 00:00:00
+13,Leggings,8,leggings,Enabled,2024-01-01 00:00:00
+14,Pants,8,pants,Enabled,2024-01-01 00:00:00
+15,Dresses & One-piece,1,dresses-and-one-piece,Enabled,2024-01-01 00:00:00
+16,Dress,15,dress,Enabled,2024-01-01 00:00:00
+17,Gown,15,gown,Enabled,2024-01-01 00:00:00
+18,Jumpsuit,15,jumpsuit,Enabled,2024-01-01 00:00:00
+19,Romper,15,romper,Enabled,2024-01-01 00:00:00
+20,Overalls,15,overalls,Enabled,2024-01-01 00:00:00
+21,Robe,15,robe,Enabled,2024-01-01 00:00:00
+22,Kimono,15,kimono,Enabled,2024-01-01 00:00:00
+23,Skirts,1,skirts,Enabled,2024-01-01 00:00:00
+24,Skirt,23,skirt,Enabled,2024-01-01 00:00:00
+25,Suits & Tailored,1,suits-and-tailored,Enabled,2024-01-01 00:00:00
+26,Waistcoat,25,waistcoat,Enabled,2024-01-01 00:00:00
+27,Coat,25,coat,Enabled,2024-01-01 00:00:00
+28,Coats,25,coats,Enabled,2024-01-01 00:00:00
+29,Jacket,25,jacket,Enabled,2024-01-01 00:00:00
+30,Seasonal Wear,1,seasonal-wear,Enabled,2024-01-01 00:00:00
+31,Wear,30,wear,Enabled,2024-01-01 00:00:00
+32,Warmer,30,warmer,Enabled,2024-01-01 00:00:00
+33,Snow,30,snow,Enabled,2024-01-01 00:00:00
+34,Footwear,0,footwear,Enabled,2024-01-01 00:00:00
+35,Shoes,34,shoes,Enabled,2024-01-01 00:00:00
+36,Shoes,35,shoes,Enabled,2024-01-01 00:00:00
+37,Sneakers,35,sneakers,Enabled,2024-01-01 00:00:00
+38,Loafers,35,loafers,Enabled,2024-01-01 00:00:00
+39,Espadrilles,35,espadrilles,Enabled,2024-01-01 00:00:00
+40,Flats,35,flats,Enabled,2024-01-01 00:00:00
+41,Boots,34,boots,Enabled,2024-01-01 00:00:00
+42,Boots,41,boots,Enabled,2024-01-01 00:00:00
+43,Heels,34,heels,Enabled,2024-01-01 00:00:00
+44,Heels,43,heels,Enabled,2024-01-01 00:00:00
+45,Pumps,43,pumps,Enabled,2024-01-01 00:00:00
+46,Sandals & Summer,34,sandals-and-summer,Enabled,2024-01-01 00:00:00
+47,Sandals,46,sandals,Enabled,2024-01-01 00:00:00
+48,Toe,46,toe,Enabled,2024-01-01 00:00:00
+49,Footbed,46,footbed,Enabled,2024-01-01 00:00:00
+50,Accessories,0,accessories,Enabled,2024-01-01 00:00:00
+51,Headwear,50,headwear,Enabled,2024-01-01 00:00:00
+52,Beanie,51,beanie,Enabled,2024-01-01 00:00:00
+53,Cap,51,cap,Enabled,2024-01-01 00:00:00
+54,Hat,51,hat,Enabled,2024-01-01 00:00:00
+55,Neckwear,50,neckwear,Enabled,2024-01-01 00:00:00
+56,Scarf,55,scarf,Enabled,2024-01-01 00:00:00
+57,Shawl,55,shawl,Enabled,2024-01-01 00:00:00
+58,Necklace,55,necklace,Enabled,2024-01-01 00:00:00
+59,Warmer,55,warmer,Enabled,2024-01-01 00:00:00
+60,Gaiter,55,gaiter,Enabled,2024-01-01 00:00:00
+61,Hand Accessories,50,hand-accessories,Enabled,2024-01-01 00:00:00
+62,Gloves,61,gloves,Enabled,2024-01-01 00:00:00
+63,Liners,61,liners,Enabled,2024-01-01 00:00:00
+64,Mittens,61,mittens,Enabled,2024-01-01 00:00:00
+65,Legwear,50,legwear,Enabled,2024-01-01 00:00:00
+66,Socks,65,socks,Enabled,2024-01-01 00:00:00
+67,Stockings,65,stockings,Enabled,2024-01-01 00:00:00
+68,Tights,65,tights,Enabled,2024-01-01 00:00:00
+69,Fashion Accessories,50,fashion-accessories,Enabled,2024-01-01 00:00:00
+70,Brooch,69,brooch,Enabled,2024-01-01 00:00:00
+71,Pin,69,pin,Enabled,2024-01-01 00:00:00
+72,Clip,69,clip,Enabled,2024-01-01 00:00:00
+73,Handkerchief,69,handkerchief,Enabled,2024-01-01 00:00:00
+74,Tie,69,tie,Enabled,2024-01-01 00:00:00
+75,Pack,69,pack,Enabled,2024-01-01 00:00:00
+76,Bags & Luggage,0,bags-and-luggage,Enabled,2024-01-01 00:00:00
+77,Handbags,76,handbags,Enabled,2024-01-01 00:00:00
+78,Purse,77,purse,Enabled,2024-01-01 00:00:00
+79,Bag,77,bag,Enabled,2024-01-01 00:00:00
+80,Backpacks,76,backpacks,Enabled,2024-01-01 00:00:00
+81,Backpack,80,backpack,Enabled,2024-01-01 00:00:00
+82,Wallet & Card,76,wallet-and-card,Enabled,2024-01-01 00:00:00
+83,Wallet,82,wallet,Enabled,2024-01-01 00:00:00
+84,Cardholder,82,cardholder,Enabled,2024-01-01 00:00:00
+85,Case,82,case,Enabled,2024-01-01 00:00:00
+86,Pouches & Small Items,76,pouches-and-small-items,Enabled,2024-01-01 00:00:00
+87,Pouch,86,pouch,Enabled,2024-01-01 00:00:00
+88,Box,86,box,Enabled,2024-01-01 00:00:00
+89,Cover,86,cover,Enabled,2024-01-01 00:00:00
+90,Sleeve,86,sleeve,Enabled,2024-01-01 00:00:00
+91,Jewelry,0,jewelry,Enabled,2024-01-01 00:00:00
+92,Neck,91,neck,Enabled,2024-01-01 00:00:00
+93,Necklace,92,necklace,Enabled,2024-01-01 00:00:00
+94,Hand & Wrist,91,hand-and-wrist,Enabled,2024-01-01 00:00:00
+95,Bracelet,94,bracelet,Enabled,2024-01-01 00:00:00
+96,Ring,94,ring,Enabled,2024-01-01 00:00:00
+97,Wristwatch,94,wristwatch,Enabled,2024-01-01 00:00:00
+98,Earrings,91,earrings,Enabled,2024-01-01 00:00:00
+99,Earrings,98,earrings,Enabled,2024-01-01 00:00:00
+100,Brooches & Pins,91,brooches-and-pins,Enabled,2024-01-01 00:00:00
+101,Brooch,100,brooch,Enabled,2024-01-01 00:00:00
+102,Pin,100,pin,Enabled,2024-01-01 00:00:00
+103,Eyewear,0,eyewear,Enabled,2024-01-01 00:00:00
+104,Sunglasses,103,sunglasses,Enabled,2024-01-01 00:00:00
+105,Sunglasses,104,sunglasses,Enabled,2024-01-01 00:00:00
+106,Outerwear,0,outerwear,Enabled,2024-01-01 00:00:00
+107,Coats & Jackets,106,coats-and-jackets,Enabled,2024-01-01 00:00:00
+108,Coat,107,coat,Enabled,2024-01-01 00:00:00
+109,Coats,107,coats,Enabled,2024-01-01 00:00:00
+110,Jacket,107,jacket,Enabled,2024-01-01 00:00:00
+111,Weather Protection,106,weather-protection,Enabled,2024-01-01 00:00:00
+112,Umbrella,111,umbrella,Enabled,2024-01-01 00:00:00

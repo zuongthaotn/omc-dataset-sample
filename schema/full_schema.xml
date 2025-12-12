@@ -1,5 +1,32 @@
 <?xml version="1.0"?>
 <schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <!-- Customer Module -->
+    <table name="customers" resource="default" engine="innodb" comment="Customers Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="varchar" name="email"/>
+        <column xsi:type="varchar" name="first_name"/>
+        <column xsi:type="varchar" name="last_name"/>
+        <column xsi:type="varchar" name="phone"/>
+        <column xsi:type="date" name="dob"/>
+        <column xsi:type="int" name="default_billing"/>
+        <column xsi:type="int" name="default_shipping"/>
+        <column xsi:type="varchar" name="group"/>
+        <column xsi:type="varchar" name="gender"/>
+        <column xsi:type="varchar" name="status"/>
+        <column xsi:type="timestamp" name="created_at"/>
+    </table>
+    
+    <table name="customer_address" resource="default" engine="innodb" comment="Customer Address Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="customer_id"/>
+        <column xsi:type="varchar" name="street"/>
+        <column xsi:type="varchar" name="city"/>
+        <column xsi:type="varchar" name="region"/>
+        <column xsi:type="varchar" name="country"/>
+        <column xsi:type="varchar" name="zipcode"/>
+    </table>
+    
+    <!-- Product Module -->
     <table name="product" resource="default" engine="innodb" comment="Product Table">
         <column xsi:type="int" name="id" />
         <column xsi:type="varchar" name="sku"/>
@@ -12,8 +39,8 @@
         <column xsi:type="varchar" name="visibility"/>
         <column xsi:type="varchar" name="product_type"/>
         <column xsi:type="timestamp" name="created_at"/>
-        <column xsi:type="timestamp" name="updated_at"/>
     </table>
+    
     <table name="category" resource="default" engine="innodb" comment="Category Table">
         <column xsi:type="int" name="id" />
         <column xsi:type="varchar" name="name"/>
@@ -22,9 +49,111 @@
         <column xsi:type="varchar" name="status"/>
         <column xsi:type="timestamp" name="created_at"/>
     </table>
+    
     <table name="category_product" resource="default" engine="innodb" comment="Category Product Table">
         <column xsi:type="int" name="id" />
         <column xsi:type="int" name="category_id"/>
         <column xsi:type="int" name="product_id"/>
+    </table>
+    
+    <table name="stock_inventory" resource="default" engine="innodb" comment="Stock Inventory Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="product_id"/>
+        <column xsi:type="int" name="warehouse_id"/>
+        <column xsi:type="varchar" name="warehouse_name"/>
+        <column xsi:type="varchar" name="stock_status"/>
+        <column xsi:type="int" name="stock_quantity"/>
+    </table>
+    
+    <!-- Sales Order Web Module -->
+    <table name="sale_order_web" resource="default" engine="innodb" comment="Sale Order Web Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="varchar" name="order_number"/>
+        <column xsi:type="int" name="customer_id"/>
+        <column xsi:type="varchar" name="buyer_first_name"/>
+        <column xsi:type="varchar" name="buyer_last_name"/>
+        <column xsi:type="varchar" name="buyer_email"/>
+        <column xsi:type="varchar" name="buyer_phone"/>
+        <column xsi:type="varchar" name="coupon"/>
+        <column xsi:type="float" name="discount_amount"/>
+        <column xsi:type="float" name="discount_percent"/>
+        <column xsi:type="varchar" name="buyer_gender"/>
+        <column xsi:type="varchar" name="shipping_method"/>
+        <column xsi:type="float" name="tax_amount"/>
+        <column xsi:type="float" name="shipping_fee"/>
+        <column xsi:type="float" name="subtotal"/>
+        <column xsi:type="float" name="grand_total"/>
+        <column xsi:type="varchar" name="state"/>
+        <column xsi:type="varchar" name="status"/>
+        <column xsi:type="int" name="billing_address_id"/>
+        <column xsi:type="int" name="shipping_address_id"/>
+        <column xsi:type="timestamp" name="created_at"/>
+        <column xsi:type="timestamp" name="updated_at"/>
+    </table>
+    
+    <table name="sale_order_web_items" resource="default" engine="innodb" comment="Sale Order Web Items Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="order_id"/>
+        <column xsi:type="int" name="product_id"/>
+        <column xsi:type="int" name="parent_product_id"/>
+        <column xsi:type="int" name="qty_ordered"/>
+        <column xsi:type="int" name="qty_paid"/>
+        <column xsi:type="int" name="qty_canceled"/>
+        <column xsi:type="int" name="qty_shipped"/>
+        <column xsi:type="int" name="qty_refunded"/>
+        <column xsi:type="float" name="price"/>
+        <column xsi:type="float" name="tax_amount"/>
+        <column xsi:type="float" name="row_total"/>
+    </table>
+    
+    <table name="sale_order_web_address" resource="default" engine="innodb" comment="Sale Order Web Address Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="order_id"/>
+        <column xsi:type="int" name="customer_address_id"/>
+        <column xsi:type="varchar" name="street"/>
+        <column xsi:type="varchar" name="region"/>
+        <column xsi:type="varchar" name="city"/>
+        <column xsi:type="varchar" name="country"/>
+        <column xsi:type="varchar" name="zipcode"/>
+        <column xsi:type="varchar" name="first_name"/>
+        <column xsi:type="varchar" name="last_name"/>
+        <column xsi:type="varchar" name="phone"/>
+        <column xsi:type="varchar" name="email"/>
+    </table>
+    
+    <!-- Sales Order POS Module -->
+    <table name="sale_order_pos" resource="default" engine="innodb" comment="Sale Order POS Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="customer_id"/>
+        <column xsi:type="varchar" name="order_number"/>
+        <column xsi:type="int" name="pos_id"/>
+        <column xsi:type="varchar" name="store_name"/>
+        <column xsi:type="int" name="staff_id"/>
+        <column xsi:type="varchar" name="staff_name"/>
+        <column xsi:type="varchar" name="buyer_first_name"/>
+        <column xsi:type="varchar" name="buyer_last_name"/>
+        <column xsi:type="varchar" name="buyer_phone"/>
+        <column xsi:type="float" name="discount_amount"/>
+        <column xsi:type="float" name="subtotal"/>
+        <column xsi:type="timestamp" name="created_at"/>
+        <column xsi:type="timestamp" name="updated_at"/>
+        <column xsi:type="float" name="grand_total"/>
+        <column xsi:type="varchar" name="status"/>
+        <column xsi:type="varchar" name="buyer_gender"/>
+        <column xsi:type="float" name="tax_amount"/>
+    </table>
+    
+    <table name="sale_order_pos_items" resource="default" engine="innodb" comment="Sale Order POS Items Table">
+        <column xsi:type="int" name="id" />
+        <column xsi:type="int" name="order_id"/>
+        <column xsi:type="int" name="product_id"/>
+        <column xsi:type="int" name="parent_product_id"/>
+        <column xsi:type="int" name="qty_ordered"/>
+        <column xsi:type="int" name="qty_paid"/>
+        <column xsi:type="int" name="qty_canceled"/>
+        <column xsi:type="int" name="qty_refunded"/>
+        <column xsi:type="float" name="price"/>
+        <column xsi:type="float" name="tax_amount"/>
+        <column xsi:type="float" name="row_total"/>
     </table>
 </schema>

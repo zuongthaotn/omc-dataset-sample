@@ -61,6 +61,25 @@ class ConfigurableProductGenerator(BaseProductGenerator):
         
         return name.strip()
     
+    def build_product_from_schema(self, product_data):
+        """Build product dictionary based on schema columns"""
+        schema_columns = self.get_schema_columns('product')
+        product = {}
+        
+        for col in schema_columns:
+            if col in product_data:
+                product[col] = product_data[col]
+            elif col == 'category_id':
+                product[col] = random.randint(1, 10)
+            elif col == 'tax_percent':
+                product[col] = 10
+            elif col == 'created_at':
+                product[col] = '2024-01-01 00:00:00'
+            else:
+                product[col] = ''
+        
+        return product
+    
     def generate(self):
         """Generate configurable products with variants"""
         if not self.configurable_config.get('enable', False):
@@ -93,16 +112,18 @@ class ConfigurableProductGenerator(BaseProductGenerator):
                 parent_name = self.generate_product_name(rule_template, first_combo)
                 parent_brand = first_combo.get('brand', '')
                 
-                all_products.append({
+                parent_data = {
+                    'id': len(all_products) + 1,
                     'sku': parent_sku,
                     'name': parent_name,
                     'brand': parent_brand,
-                    'price': '',  # Parent products typically don't have price
-                    'visibility': 1,
-                    'status': 1,
-                    'type': 'configurable',
-                    'parent_sku': ''
-                })
+                    'price': 0,  # Parent products typically don't have price
+                    'status': 'Enabled',
+                    'visibility': 'Catalog, Search',
+                    'product_type': 'configurable'
+                }
+                
+                all_products.append(self.build_product_from_schema(parent_data))
                 
                 # Generate child products for each combination
                 for j, selected_values in enumerate(combinations, 1):
@@ -112,16 +133,19 @@ class ConfigurableProductGenerator(BaseProductGenerator):
                     product_price = round(random.uniform(10, 500), 2)
                     brand = selected_values.get('brand', '')
                     
-                    all_products.append({
+                    child_data = {
+                        'id': len(all_products) + 1,
                         'sku': child_sku,
                         'name': product_name,
                         'brand': brand,
                         'price': product_price,
-                        'visibility': 0,  # Children are not visible
-                        'status': 1,
-                        'type': 'simple',
-                        'parent_sku': parent_sku
-                    })
+                        'status': 'Enabled',
+                        'visibility': 'Not Visible Individually',
+                        'product_type': 'simple'
+                    }
+                    
+                    all_products.append(self.build_product_from_schema(child_data))
         
         print(f"Generated {len(all_products)} configurable product variants")
+        
         return all_products
